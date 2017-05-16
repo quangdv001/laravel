@@ -1,0 +1,17 @@
+#wrapper{
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+}
+#header{
+    height: 200px;
+    background: red;
+}
+#content{
+    height: 500px;
+    background: green;
+}
+#footer{
+    height: 100px;
+    background: blue;
+}
